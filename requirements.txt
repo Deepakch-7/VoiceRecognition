@@ -1,7 +1,7 @@
 streamlit
 opencv-python-headless
 mediapipe
-tensorflow
+tensorflow==2.15.1
 numpy
 Pillow
 scikit-learn
